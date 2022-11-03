@@ -1,0 +1,48 @@
+.navbar{
+    display: flex;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    background: #fff !important;
+    height: 56px;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+.mi{
+    background: url(../../assets/img/Sprites.64af8f61.svg) no-repeat;
+    cursor: pointer;
+}
+.mi-gd2{
+    background: url(../../assets/img/Icon.ad7c4b8.svg) no-repeat;
+    cursor: pointer;
+}
+.mi-24{
+    width: 24px !important;
+    height: 24px !important;
+}
+.mi-32{
+    width: 32px;
+    height: 32px;
+}
+.flex{
+    display: flex !important;
+}
+.items-center{
+    align-items: center;
+}
+.m-r-12{
+    margin-right: 12px !important;
+}
+.m-r-24 {
+    margin-right: 24px !important;
+}
+.m-l-8 {
+    margin-left: 8px !important;
+}
+.router-link-active{
+    font-weight: 700;
+}
+a{
+    color: #000000;
+}

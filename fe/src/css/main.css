@@ -1,0 +1,29 @@
+@import url("./layout/header.css");
+@import url("./layout/content.css");
+@import url("./components/button.css");
+*{
+    font-family: GoogleSand;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+@font-face {
+    font-family: GoogleSand Semibold;
+    src: url("../assets/fonts/notosans-semibold.df3e6dc4.woff2");
+}
+
+@font-face {
+    font-family: GoogleSand Bold;
+    src: url("../assets/fonts/notosans-bold.3ede5aff.woff2");
+}
+
+@font-face {
+    font-family: GoogleSand Italic;
+    src: url("../assets/fonts/notosans-italic.1c1aaac9.woff2");
+}
+@font-face {
+    font-family: GoogleSand;
+    src: url("../assets/fonts/notosans-regular.2cb88a13.woff2");
+}
